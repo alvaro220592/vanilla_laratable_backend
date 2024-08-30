@@ -1,6 +1,6 @@
 <?php
 
-namespace Alvaro220592\LaravelVanillaDatatable;
+namespace Alvaro220592\VanillaLaratable;
 
 use Illuminate\Database\Eloquent\Builder;
 
