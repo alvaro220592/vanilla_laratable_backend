@@ -1,2 +1,2 @@
 ## Instalação
-composer require alvaro220592/laravel_vanilla_datatable:dev-master
+composer require alvaro220592/vanilla_laratable:dev-master
