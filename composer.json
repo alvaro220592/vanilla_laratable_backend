@@ -1,0 +1,21 @@
+{
+    "name": "alvaro220592/vanilla_laratable",
+    "description": "Recursos backend para construir o datatable com Vanilla JS",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Alvaro220592\\VanillaLaratable\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "alvaro220592",
+            "email": "alvaro220592@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "illuminate/database": "^10.48"
+    }
+}
