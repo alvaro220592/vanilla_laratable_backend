@@ -16,6 +16,6 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "illuminate/database": "^10.48"
+        "illuminate/database": "^10.48 || ^11.0"
     }
 }
